@@ -1,8 +1,14 @@
-# Project Title: 
+# Project Title: Henoker Auction House
 Design an eBay-like e-commerce auction site that will allow users to post auction listings, 
 place bids on listings, comment on those listings, and add listings to a “watchlist.”
 
+## Screenshots
 
+Here are some screenshots of the boilerplate project.
+
+![Screenshot01][1]  
+
+<img src='auctions/static/images/project2.jpg' />
 ## About the Project
 
 This assignment requires writing a ebay like auction ecommerce web app using django. 
