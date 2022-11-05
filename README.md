@@ -6,8 +6,9 @@ place bids on listings, comment on those listings, and add listings to a “watc
 
 Here are some screenshots of the boilerplate project.
 
-![Screenshot01][1]  
-[1]: ./auctions/static/images/project2.png
+![Screenshot!](auctions/static/images/project2.png) 
+
+
 
 ## About the Project
 
