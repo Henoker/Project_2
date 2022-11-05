@@ -7,8 +7,8 @@ place bids on listings, comment on those listings, and add listings to a “watc
 Here are some screenshots of the boilerplate project.
 
 ![Screenshot01][1]  
+[1]: ./auctions/static/images/project2.png
 
-<img src='auctions/static/images/project2.jpg' />
 ## About the Project
 
 This assignment requires writing a ebay like auction ecommerce web app using django. 
